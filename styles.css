@@ -1,0 +1,13 @@
+.table {
+  width: 100% !important;
+  max-width: 720px !important;
+}
+
+.table thead th {
+  white-space: nowrap;
+}
+
+em {
+  color: #666666;
+  font-size: 0.9em;
+}
